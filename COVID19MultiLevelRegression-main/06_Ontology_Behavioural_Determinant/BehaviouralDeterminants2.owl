@@ -1,0 +1,1060 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-12"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-12">
+    <Prefix name="" IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-12"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PolicyTheories"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#TPB"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#advice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#amigo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#approval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#associate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#autonomy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#beyondMyControl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#boss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#brother"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#buddy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#capacity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#committedTo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#companion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#completeControl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#comply"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#confidence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#confident"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#conformTo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#consequence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#conspiracy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#control"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#coworkers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#determined"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#difficult"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#disinformation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#distrust"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#easier"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effectiveess"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effectively"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#efficacy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effort"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#employers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#enable"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#encouragement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#endorsement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#expectedOfMe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#fake"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#family"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#friends"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#husband"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#impossible"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#influence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#intend"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#interpersonal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#intervention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#keyPeople"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#kin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#lack"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#liar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#likelihood"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#likely"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#makeItEasyFor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#matters"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mattersToMe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#misinformation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mostPeopleLikeMe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#must"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#necessary"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#noControl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#oblige"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#otherPeople"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#outcomes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#parents"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peopleInMyLifeWhoseOpinionsIValue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peopleOftenAskMeTo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peopleWhoAreImportantToMe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peopleWhoseViewsIValue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#personalRelation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#planTo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#politics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#possibility"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#possible"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#privacy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#receptiveness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#recommendation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#referenceGroup"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relationship"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relatives"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#safe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#salientConsideration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#secure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#self-confidence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#self-efficacy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#severe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#siblings"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#sister"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#socialPressure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#spouse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#struggle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#supervisor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#supportNetworks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#susceptible"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#takeoverAttempt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#test"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#thinkIShould"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#thinkThatIShould"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#trust"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#trustworthy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#underPressure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#upToMe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#voteOfConfidence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#wantTo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#wholeheartedness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#willingness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#worst"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#bestFriend"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#bigSister"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#bro"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#counselor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#cousin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#denMother"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#descendant"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#director"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#extendedFamily"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#familyMan"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#father"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#flatmate"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#girlfriend"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#halfBlood"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#halfSister"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#husband"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#in-law"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#littleBrother"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#littleSister"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mediation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mother"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#roommate"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#schoolfriend"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#secondCousin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#sibling"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#spouse"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#stepbrother"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#stepparent"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#wife"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#advice"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#recommendation"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#associate"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peers"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#companion"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#friends"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#comply"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#conformTo"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#comply"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#oblige"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#consequence"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#outcomes"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#disinformation"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#misinformation"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effort"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#struggle"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effort"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#takeoverAttempt"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effort"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#test"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effort"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#worst"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#encouragement"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#voteOfConfidence"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#must"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#necessary"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#personalRelation"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relationship"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#receptiveness"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#willingness"/>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#wholeheartedness"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#willingness"/>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PolicyTheories"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#TPB"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#TPB"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#advice"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#amigo"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#approval"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#associate"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#autonomy"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#beyondMyControl"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#boss"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#employers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#brother"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#siblings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#buddy"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#capacity"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#committedTo"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#companion"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#completeControl"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#comply"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#confidence"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#confident"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#conformTo"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#consequence"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#conspiracy"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#control"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#coworkers"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#determined"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#difficult"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#disinformation"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#distrust"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#easier"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effectiveess"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effectively"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#efficacy"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#effort"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#employers"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#enable"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#encouragement"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#endorsement"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#expectedOfMe"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#fake"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#family"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#friends"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#husband"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#spouse"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#impossible"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#influence"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#intend"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#interpersonal"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#intervention"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#keyPeople"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#kin"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#lack"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#liar"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#likelihood"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#likely"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#makeItEasyFor"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mate"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#matters"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#matters"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mattersToMe"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#misinformation"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mostPeopleLikeMe"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#must"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#necessary"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#noControl"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#oblige"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#otherPeople"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#outcomes"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#parents"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peers"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peopleInMyLifeWhoseOpinionsIValue"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peopleOftenAskMeTo"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peopleWhoAreImportantToMe"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#peopleWhoseViewsIValue"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#personalRelation"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#planTo"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#politics"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#possibility"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#possible"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#privacy"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#receptiveness"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#recommendation"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#referenceGroup"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relationship"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relatives"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#safe"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#salientConsideration"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#secure"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#self-confidence"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#self-efficacy"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#severe"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#siblings"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#sister"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#siblings"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#socialPressure"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#spouse"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#struggle"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#supervisor"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#supportNetworks"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#susceptible"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#takeoverAttempt"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#test"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#thinkIShould"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#thinkThatIShould"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#trust"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#trustworthy"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#underPressure"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#upToMe"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#voteOfConfidence"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#SN"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#wantTo"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#wholeheartedness"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#willingness"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#PBC"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#worst"/>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#O"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#friends"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#bestFriend"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#sister"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#bigSister"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#friends"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#bro"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#supervisor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#counselor"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relatives"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#cousin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#supervisor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#denMother"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relatives"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#descendant"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#supervisor"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#director"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#family"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#extendedFamily"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#husband"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#familyMan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#parents"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#father"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#friends"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#flatmate"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#friends"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#girlfriend"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#siblings"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#halfBlood"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#sister"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#halfSister"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#spouse"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#husband"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relatives"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#in-law"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#brother"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#littleBrother"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#sister"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#littleSister"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#intervention"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mediation"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#parents"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#mother"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#friends"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#roommate"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#friends"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#schoolfriend"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relatives"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#secondCousin"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relatives"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#sibling"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#relatives"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#spouse"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#brother"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#stepbrother"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#parents"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#stepparent"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#spouse"/>
+        <NamedIndividual IRI="http://www.semanticweb.org/stephanie/ontologies/2022/11/untitled-ontology-11#wife"/>
+    </ClassAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
