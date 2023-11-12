@@ -1,6 +1,6 @@
-# COVID19MultiLevelRegression
+# Programs for COVID19MultiLevelRegression 
 
-- This GIT repository included the items as below,
+- This "Program" Folder included the items as below,
 	- 01: Main data pipeline:
 		- for selecting the required information and reducing the size of the tweet json files for further processing;
 		- for conducting the policy type lebelling;
